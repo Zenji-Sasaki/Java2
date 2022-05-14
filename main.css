@@ -1,0 +1,24 @@
+.main {
+  width: 20%;
+}
+
+#result {
+  background-color: black;
+  width: 97%;
+  height: 30px;
+  color: white;
+  font-size: 20px;
+  text-align: right;
+}
+
+.btn {
+  width: 23%;
+}
+
+.btnPoint {
+  width: 23%;
+}
+
+.btnsp {
+  width: 48%;
+}
